@@ -1,6 +1,7 @@
 # Effect of Pressure Rise Time on Ventilator Parameters and Gas Exchange During Neonatal Ventilation
 This is the github repository for the code that accompanies the paper 
-"Effect of Pressure Rise Time on Ventilator Parameters and Gas Exchange During Neonatal Ventilation" 
+"Effect of Pressure Rise Time on Ventilator Parameters and Gas Exchange During Neonatal Ventilation"
+
 Authors: David Chong, Sabrina Kayser, Eniko Szakmar, Colin J Morley, & Gusztav Belteki, Pediatric Pulmonology, in press. 
 A description of the scripts can be found below.
 ### Pre-processing
